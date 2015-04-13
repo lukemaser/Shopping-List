@@ -103,3 +103,6 @@ li {
 	padding-top: .2rem;
 	color: green;
 }
+.complete {
+	text-decoration: line-through;
+}
